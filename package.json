@@ -4,7 +4,7 @@
     "main": "./src/js/app.tsx",
     "scripts": {
         "build": "webpack --mode=production",
-        "html_server": "webpack-dev-server"
+        "dev_server": "webpack-dev-server"
     },
     "dependencies": {
         "@types/react": "^16.8.19",
